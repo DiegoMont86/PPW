@@ -1,0 +1,55 @@
+h1 {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: red;
+    text-transform: uppercase;
+    background-color: rgb(22, 201, 224);
+}
+
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: justify;
+
+}
+
+.paragrafo1 {
+    color: rgb(115, 207, 24);
+    font-style: italic;
+    font-size:30px ;
+
+}
+
+.paragrafo2 {
+    color: rgb(224, 128, 18);
+    font-style: bold;
+    font-size:25px ;
+    
+
+}
+
+.paragrafo3 {
+    color: rgb(15, 176, 224);
+    font-size:20px ;
+    
+
+}
+
+legend{
+    font-size: 25px;
+    font-weight: bold;
+    background-color: coral;
+}
+
+label{
+    font-weight: bold;
+
+}
+
+
+
+button {
+    color: rgb(17, 13, 13);
+    background-color: chocolate;
+    font-weight: bold;
+
+}
